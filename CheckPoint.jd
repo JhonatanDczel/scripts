@@ -1,3 +1,6 @@
+echo "[o◡O]っ Beeb Beep >>> Estoy ejecutando CheckPoint"
 git add -A
+
 git commit -m "$1"
 git push
+echo "(＾◡＾)っ Beep Boop >> Termine mi trabajo :)"
