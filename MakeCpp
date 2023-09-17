@@ -1,0 +1,4 @@
+KaoBotStart MakeCpp
+cp ~/Scripts/Resources/TemplateCpp.cpp ./$1.cpp
+nvim ./$1.cpp
+KaoBotEnd
