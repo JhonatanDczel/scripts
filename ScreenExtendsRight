@@ -1,0 +1,3 @@
+KaoBotStart ScreenExtends
+xrandr --output eDP --primary --auto --output HDMI-1-0 --auto --right-of eDP
+KaoBotEnd

@@ -1,0 +1,7 @@
+KaoBotStart RunCpp
+g++ $1 -o executable
+KaoBotEnd
+
+./executable
+rm executable
+
