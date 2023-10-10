@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat ~/Scripts/Resources/Schedule.txt | lolcat

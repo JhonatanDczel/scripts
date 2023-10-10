@@ -1,0 +1,26 @@
+|               | --LUNES-- | --MARTES- | MIERCOLES | --JUEVES- | -VIERNES- | --SABADO- | -DOMINGO- |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 07:00 - 07:50 | Linu Hack |    CI     |  ICPC PE  |    CI     |  ICPC PE  | Front-End |  Skills   |
+| 07:50 - 08:40 | Linu Hack |    CI     |  ICPC PE  |    CI     |  ICPC PE  | Front-End |  Skills   |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 08:50 - 09:40 |  Skills   | Home Work |  ICPC PE  |  S4vitar  | Lab PWeb1 |  ICPC PE  |  ICPC PE  |
+| 09:40 - 10:30 |  Skills   |    RN     |  ICPC PE  | Front-End | Lab PWeb1 |  ICPC PE  |  ICPC PE  |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 10:40 - 11:30 | Front-End |    RN     | Home Work | Lab PWeb1 |  S4vitar  | Front-End | ********* |
+| 11:30 - 12:20 | Front-End |    RN     | Home Work | Lab PWeb1 |  S4vitar  | Front-End | ********* |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 12:20 - 13:10 |  EEDD II  |  PWeb  1  |   LUNCH   |  EEDD II  |   LUNCH   | Home Work | ********* |
+| 13:10 - 14:00 |  EEDD II  |  PWeb  1  |  ICPC PE  |  EEDD II  | Home Work |   LUNCH   |   LUNCH   |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 14:00 - 14:50 |   LUNCH   |   LUNCH   |  ICPC PE  |   LUNCH   |  Skills   | Front-End |   LUNCH   |
+| 14:50 - 15:40 |  Skills   |  S4vitar  |   FP II   | Home Work |  Skills   | Front-End | Front-End |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 15:50 - 16:40 |   FP II   |  S4vitar  |   FP II   | Linu Hack | Front-End |  ICPC PE  | Front-End |
+| 16:40 - 17:30 |   FP II   | Calculo 1 | Home Work | Linu Hack | Front-End |  ICPC PE  | CI PYTHON |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 17:40 - 18:30 | Lab FP II | Calculo 1 | Lab FP II |  ICPC PE  |  ICPC PE  | Front-End | CI PYTHON |
+| 18:30 - 19:20 | Lab FP II | Calculo 1 | Lab FP II |  ICPC PE  |  ICPC PE  | Front-End | Linu Hack |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 19:20 - 20:10 | Home Work |  Skills   | Front-End | Calculo 1 | Calculo 1 |  ICPC PE  |  ICPC PE  |
+| 20:10 - 21:00 | Home Work |  Skills   | Front-End | Calculo 1 | Calculo 1 |  ICPC PE  |  ICPC PE  |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
