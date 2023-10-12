@@ -1,6 +1,11 @@
 KaoBotStart "GitCheckPoint"
 git pull --rebase
 git add -A
-git commit -m "$1"
+if [[ "$1" != "" ]]; then
+	git commit -m "$1"
+else
+	git commit
+fi
+
 git push
 KaoBotEnd

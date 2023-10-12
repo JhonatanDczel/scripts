@@ -1,3 +1,9 @@
 #!/bin/bash
+CONFIG="/usr/share/archcraft/dwm/alacritty/alacritty.yml"
+COMMAND="cat ~/Scripts/Resources/Schedule/Schedule.txt | lolcat"
 
-cat ~/Scripts/Resources/Schedule.txt | lolcat
+alacritty --class 'alacritty-float,alacritty-float' --config-file "$CONFIG" \
+	-o window.opacity=0.95 font.size=13 \
+	window.padding.x=15 window.padding.y=15 \
+	window.dimensions.columns=101 window.dimensions.lines=27 \
+	-e sh -c "$COMMAND; read -p 'Presiona Enter para salir...'"
