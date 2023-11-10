@@ -1,0 +1,26 @@
+|               | --LUNES-- | --MARTES- | MIERCOLES | --JUEVES- | -VIERNES- | --SABADO- | -DOMINGO- |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 07:00 - 07:50 |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  |
+| 07:50 - 08:40 |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 08:50 - 09:40 | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  |  ICPC PE  |
+| 09:40 - 10:30 | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  |  ICPC PE  |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 10:40 - 11:30 | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |
+| 11:30 - 12:20 | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 12:20 - 13:10 |   LUNCH   |   LUNCH   |   LUNCH   |   LUNCH   |   LUNCH   |   LUNCH   | Front-End |
+| 13:10 - 14:00 |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |   LUNCH   |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 14:00 - 14:50 |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End | Front-End |
+| 14:50 - 15:40 |  ICPC PE  | Front-End |   FP II   | Front-End |  ICPC PE  | Front-End | Front-End |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 15:50 - 16:40 |   FP II   | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  |
+| 16:40 - 17:30 |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 17:40 - 18:30 |  ICPC PE  |  ICPC PE  | Front-End |  ICPC PE  | Front-End |  ICPC PE  | Front-End |
+| 18:30 - 19:20 |    IOI    |  ICPC PE  |    IOI    |  ICPC PE  |    IOI    |  ICPC PE  | Front-End |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 19:20 - 20:10 |    IOI    |  ICPC PE  |    IOI    | Front-End |    IOI    | Front-End | Front-End |
+| 20:10 - 21:00 |  ICPC PE  |  ICPC PE  | Front-End | Front-End | Front-End | Front-End | Front-End |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
