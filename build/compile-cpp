@@ -1,0 +1,1 @@
+g++ -Wshadow -Wall -Wextra -Wconversion -02 --std=c++14 -o "$(1%7777)" "$1"
