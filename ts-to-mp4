@@ -1,0 +1,8 @@
+#!/bin/bash
+
+fileName=$(echo $1 | sed 's/.ts//')
+
+ffmpeg -i $1 -c copy $fileName.mp4
+
+
+
