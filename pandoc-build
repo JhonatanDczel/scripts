@@ -1,0 +1,13 @@
+
+#!/bin/bash
+
+if [ "$#" -ne 2 ]; then
+    echo "Uso: $0 archivo_entrada.md archivo_salida.pdf"
+    exit 1
+fi
+
+# Asigna los argumentos a variables
+archivo_md="$1"
+archivo_pdf="$2"
+
+pandoc "$archivo_md" -o "$archivo_pdf" --from markdown --template "~/.pandoc/templates/eisvogel.tex" --listings
