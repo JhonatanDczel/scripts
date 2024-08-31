@@ -1,0 +1,16 @@
+#!bin/bash
+
+if [ $# -lt 2 ]; then
+    echo "Uso: $0 nombre_del_proyecto directorio_destino"
+    exit 1
+fi
+
+NAME=$1
+DIR=$2
+
+cp -r ~/Scripts/Resources/template-latex $DIR/$NAME
+mv $DIR/$NAME/main.tex $DIR/$NAME/$NAME.tex
+
+echo "pdflatex ./$NAME.tex; pdflatex ./$NAME.tex" > $DIR/$NAME/compile.sh
+
+echo "Proyecto de LaTeX creado en $DIR/$NAME"
