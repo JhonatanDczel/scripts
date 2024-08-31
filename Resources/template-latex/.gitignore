@@ -1,4 +1,9 @@
-*.toc
 *.aux
-*.out
+*.bbl
+*.bcf
+*.blg
 *.log
+*.out
+*.pdf
+*.run.xml
+*.toc
