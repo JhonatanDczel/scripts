@@ -10,7 +10,10 @@ DIR=$2
 
 cp -r ~/scripts/Resources/template-latex $DIR/$NAME
 mv $DIR/$NAME/main.tex $DIR/$NAME/$NAME.tex
+mv $DIR/$NAME/main.bbl $DIR/$NAME/$NAME.bbl
 
 echo "pdflatex ./$NAME.tex; pdflatex ./$NAME.tex" > $DIR/$NAME/compile.sh
+
+chmod +x $DIR/$NAME/compile.sh
 
 echo "Proyecto de LaTeX creado en $DIR/$NAME"
