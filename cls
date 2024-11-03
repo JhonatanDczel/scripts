@@ -1,2 +1,4 @@
 clear;
-neofetch
+echo " " ;
+echo " " ;
+neofetch;

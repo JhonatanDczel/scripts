@@ -1,1 +1,2 @@
-make-cpp
+cp ~/Scripts/build/src/TemplateCpp.cpp ./$1.cpp
+nvim ./$1.cpp
